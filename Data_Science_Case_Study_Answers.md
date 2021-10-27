@@ -1,6 +1,6 @@
 ## **Verve Group Data Science Case Study Answers**
 
-### __Outline of the problem__:
+### __Outline of the problem__
 
 _Purpose_
 
