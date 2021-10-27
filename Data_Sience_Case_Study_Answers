@@ -84,4 +84,3 @@ Possible disadvantages:
 
 - There might be some difficulty in tuning the parameters to optimize the model for 
   categorical features.
-  
